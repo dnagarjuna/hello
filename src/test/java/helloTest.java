@@ -1,4 +1,4 @@
-public class hello
+public class helloTest
 {
 	public static void main()
 	{
